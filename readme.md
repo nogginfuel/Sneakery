@@ -15,12 +15,12 @@ Sneakery is aimed at being a low profile / low visibility barrier for websites. 
 
 
 #### Documentation:
-The main class to call is '.sneakery'. This sets up the container. You can make the container and size or shape you need. I have it defaulted to a 10 x 10 pixel square. Obviously the smaller you make the container the smaller the click target will be so keep that in mind.
-You may want to make the 'background-color' or 'border' color something visible to ensure you have placed the container exactly as desired.
+The main class to call is `.sneakery`. This sets up the container. You can make the container and size or shape you need. I have it defaulted to a 10 x 10 pixel square. Obviously the smaller you make the container the smaller the click target will be so keep that in mind.
+You may want to make the `background-color` or `border` color something visible to ensure you have placed the container exactly as desired.
 
 I have also supplied a 'hover' class so you can back the container a bit more obvious when you've found it. Again you may want the container to always be the color of the page background to keep it hidden.
 
-I have also supplied 4 classes for different layout configurations. You can use one or many on the same page. I've tried to name the classes as intuitively as possible, 'topright', 'topleft', 'bottomright' and 'bottomleft'.
+I have also supplied 4 classes for different layout configurations. You can use one or many on the same page. I've tried to name the classes as intuitively as possible, `topright`, `topleft`, `bottomright` and `bottomleft`.
 
 For **Foundation** Questions please see the documentation provided by Zurb on their respective repos and websites.
 
