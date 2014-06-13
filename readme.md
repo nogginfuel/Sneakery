@@ -6,11 +6,12 @@ Sneakery is aimed at being a low profile / low visibility barrier for websites. 
 
 #### Roadmap Future:
 
-+ Possibly integrate with [Cheet.js][1]
++ Integrated with Cheet.js - Done as of 06/12/2014
 
 #### How it was Created:
 
 + CSS
++ [namuol / Cheet.js][1] - easy easter eggs (konami code, etc) for your website.
 + [zurb / foundation][2] - The Most Advanced Responsive Front-End Framework In The World.
 
 
@@ -21,7 +22,9 @@ You may want to make the `background-color` or `border` color something visible 
 I have also supplied a 'hover' class so you can back the container a bit more obvious when you've found it. Again you may want the container to always be the color of the page background to keep it hidden.
 
 I have also supplied 4 classes for different layout configurations. You can use one or many on the same page. I've tried to name the classes as intuitively as possible, `topright`, `topleft`, `bottomright` and `bottomleft`.
+You can also call the modal by typing `sneakery` when the focus is anywhere on the page.
 
+For **Cheet.js** Questions please see the documentation provided by Namuol on their repo.
 For **Foundation** Questions please see the documentation provided by Zurb on their respective repos and websites.
 
 #### Feedback:

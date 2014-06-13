@@ -64,6 +64,7 @@
     	<div class="large-6 centered columns">
     		<h2 class="brandfont">Sneakery</h2>
 			<p>Hover and click on the squares...</p>
+			<p>...or you can type "sneakery" while the focus is anywhere on the page.</p>
     	</div>
     </div>
     
@@ -83,5 +84,11 @@
     <script>
       $(document).foundation();
     </script>
+		<script type="text/javascript" src="js/vendor/cheet.js"></script>
+    <script>
+		cheet('s n e a k e r y', function () {
+  			$('#sneakeryLogin').foundation('reveal', 'open');
+		});
+	</script>
   </body>
 </html>
