@@ -31,7 +31,7 @@ For **Foundation** Questions please see the documentation provided by Zurb on th
 If you have feedback or issues with what I have specifically put together, please bring it up on this repo.
 
 #### License:
-Sneakery is [MIT-licensed][3] and absolutely free to use. Sneakery without brilliance of the other projects listed above (sincere thanks).
+Sneakery is [MIT-licensed][3] and absolutely free to use. Sneakery would be lacking without brilliance of the other projects listed above (sincere thanks).
 
 [1]: https://github.com/namuol/cheet.js
 [2]: https://github.com/zurb/foundation
